@@ -34,5 +34,24 @@ Choose flat type (2/3): 2
 >
 > [UML Class Diagram & Sequence Diagram] https://github.com/XFanglin/SC2002-Group-Project/tree/main/UML%20Diagrams/Class%20Diagram
 > [Sample Code Snippets] https://github.com/XFanglin/SC2002-Group-Project/tree/main/Sample%20code%20snippets
-> [
+> [Report] https://github.com/XFanglin/SC2002-Group-Project/blob/main/SC2002%20Group%204%20Report%20(4).docx
+> [Test cases]
+> [Javadoc]
+> [Source Code]
+>
+> ### Clone the repository
+> Before beginning, clone the Git repository to your local machine
+>
+> ### Recommended software
+> Download and install the following software:
+> - vscode or
+> - eclipse
+>
+> ## Running the project
+> Open 1 terminal in vscode or eclipse
+> - Run the code
+>
+> # Tech used
+> Java
+>
 > 
