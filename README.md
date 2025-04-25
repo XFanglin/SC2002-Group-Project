@@ -26,7 +26,7 @@ NRIC: S1234567A
 Password: ****
 --- Applicant Menu ---
 2) Apply for project
-> 2
+>  Choice: 2
 Select project 1–3: 1
 Choose flat type (2/3): 2
 ✅ Successfully applied to "Acacia Breeze" (2-Room)
