@@ -47,7 +47,7 @@ Choose flat type (2/3): 2
 
 > [Test cases] 
 
-> [Javadoc]
+> [Javadoc] https://github.com/XFanglin/SC2002-Group-Project/blob/main/SC2002_JavaDoc.zip
 
 > [Source Code] https://github.com/XFanglin/SC2002-Group-Project/blob/main/Assignment_final.zip
 >
