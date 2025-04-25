@@ -45,7 +45,7 @@ Choose flat type (2/3): 2
 
 > [Report] https://github.com/XFanglin/SC2002-Group-Project/blob/main/SC2002%20Group%204%20Report%20(4).docx
 
-> [Test cases] https://github.com/XFanglin/SC2002-Group-Project/blob/main/Test%20Cases%20SC2002.xlsx
+> [Test cases] 
 
 > [Javadoc]
 
