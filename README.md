@@ -22,14 +22,21 @@ java -jar target/bto-management.jar
 
 # Applicant login and apply
 > Choice: 1
+
 NRIC: S1234567A
+
 Password: ****
 
 --- Applicant Menu ---
+
 2) Apply for project
+
 >  Choice: 2
+
 Select project 1–3: 1
+
 Choose flat type (2/3): 2
+
 ✅ Successfully applied to "Acacia Breeze" (2-Room)
 >
 > [UML Class Diagram & Sequence Diagram] https://github.com/XFanglin/SC2002-Group-Project/tree/main/UML%20Diagrams/Class%20Diagram
