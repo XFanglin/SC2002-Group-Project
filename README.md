@@ -45,11 +45,11 @@ Choose flat type (2/3): 2
 
 > [Report] https://github.com/XFanglin/SC2002-Group-Project/blob/main/SC2002%20Group%204%20Report%20(4).docx
 
-> [Test cases]
+> [Test cases] https://github.com/XFanglin/SC2002-Group-Project/blob/main/Test%20Cases%20SC2002.xlsx
 
 > [Javadoc]
 
-> [Source Code]
+> [Source Code] https://github.com/XFanglin/SC2002-Group-Project/blob/main/Assignment_final.zip
 >
 > ### Clone the repository
 > Before beginning, clone the Git repository to your local machine
