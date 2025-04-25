@@ -17,9 +17,39 @@ Welcome to the HDB BTO Management System! This guide will help you set up the pr
 - An IDE (IntelliJ IDEA, Eclipse, or VSCode) with Java support  
 
 ## Getting Started
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-org/bto-management.git
-   cd bto-management
+# Start the CLI
+java -jar target/bto-management.jar
+
+# Applicant login and apply
+> Choice: 1
+NRIC: S1234567A
+Password: ****
+--- Applicant Menu ---
+2) Apply for project
+> 2
+Select project 1–3: 1
+Choose flat type (2/3): 2
+✅ Successfully applied to "Acacia Breeze" (2-Room)
+>
+> git clone https://github.com/your-org/bto-management.git
+cd bto-management
+mvn clean package
+java -jar target/bto-management.jar
+>
+> src/
+ ├─ main/java/Assignment1/
+ │   ├─ controller/   # CLI & user flows
+ │   ├─ entity/       # Domain models
+ │   ├─ repository/   # Interfaces & CSV implementations
+ │   ├─ service/      # Service interfaces
+ │   ├─ service/impl/ # Business logic
+ │   └─ util/         # Helpers (DateFmt, Filter)
+ └─ test/             # JUnit tests
+>
+> mvn test
+mvn jacoco:report
+>
+> mvn javadoc:javadoc
+# Open target/site/apidocs/index.html
 
   
